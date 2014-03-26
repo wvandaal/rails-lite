@@ -14,4 +14,4 @@ This project was built as a learning exercise to gain a greater understanding of
 
 **See Also:**
 
-This project is the successor of [active-record-lite](http://github.com/wvandaal/active-record-lite), a similar project I built to explore the inner workings of ActiveRecord in Rails 3.2.
+This project is an expansion of [active-record-lite](http://github.com/wvandaal/active-record-lite), a similar project I built to explore the inner workings of ActiveRecord in Rails 3.2.
